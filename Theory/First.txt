@@ -1,1 +1,11 @@
-This is the theory Of first Lecture
+Q1) What is Emmet ?
+
+- Emmet is web-developer's toolkit that can greatly improve your Html and CSS workflow.
+
+- Basically, most text editors allows you to store and re-use commonly used code-chunks. These snippets are good way to increase productivity.
+
+- But these snippets have common pitfalls i.e you have to define snippet first and then use it at runtime.
+
+- Emmet takes this snippets idea to a whole new level. you can type CSS-like expressions that can be dynamically parsed, and produce output depending on what you type in abbreviation.
+
+
